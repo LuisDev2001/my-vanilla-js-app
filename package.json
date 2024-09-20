@@ -15,6 +15,6 @@
     "vite": "^5.4.1"
   },
   "dependencies": {
-    "web-essential-ui": "^1.1.1"
+    "web-essential-ui": "^1.2.11"
   }
 }
